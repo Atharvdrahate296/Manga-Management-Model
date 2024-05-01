@@ -1,4 +1,4 @@
-**# Manga Data Management Model**
+**Manga Data Management Model**
 
 **Overview**
 
