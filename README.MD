@@ -1,4 +1,4 @@
-**Manga Data Management Model**
+                                    **Manga Data Management Model**
 
 **Overview**
 The Manga Data Management Model is a simple console-based application designed to manage manga-related data including manga titles, authors, user reviews, and visitor logs. It provides functionalities such as searching for manga titles and authors, listing all manga titles and authors, recording user reviews, and displaying visitor logs.
@@ -58,7 +58,8 @@ This application is compatible with any system that supports C++.
 This application is provided as-is without any guarantees or warranties. Use at your own risk.
 
 **Author**
-Atharv Rahate : [account](https://github.com/Atharvdrahate296)
-Krushnansh Meher : [account](https://github.com/Krushnansh22)
+
+Atharv Rahate : [Github Account](https://github.com/Atharvdrahate296)
+Krushnansh Meher : [Github Account](https://github.com/Krushnansh22)
 
 Feel free to modify and extend this application according to your requirements. Happy manga data management!
