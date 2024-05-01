@@ -71,6 +71,7 @@ This application is provided as-is without any guarantees or warranties. Use at 
 **Author**
 
 Atharv Rahate : [Github Account](https://github.com/Atharvdrahate296)
+
 Krushnansh Meher : [Github Account](https://github.com/Krushnansh22)
 
 Feel free to modify and extend this application according to your requirements. Happy manga data management!
