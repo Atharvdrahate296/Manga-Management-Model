@@ -1,4 +1,4 @@
-**.                                                      Manga Data Management Model**
+                                                                 **Data Management Model**
 
 **Overview**
 The Manga Data Management Model is a simple console-based application designed to manage manga-related data including manga titles, authors, user reviews, and visitor logs. It provides functionalities such as searching for manga titles and authors, listing all manga titles and authors, recording user reviews, and displaying visitor logs.
